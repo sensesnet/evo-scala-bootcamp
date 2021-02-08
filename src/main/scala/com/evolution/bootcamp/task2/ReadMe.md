@@ -12,4 +12,4 @@
     
    If some of the implementation involves advanced math, it is OK
     to skip it (leave unimplemented), the primary intent of this
-    exercise is modelling using case classes and traits, and not math.
+    exercise is modelli ng using case classes and traits, and not math.
