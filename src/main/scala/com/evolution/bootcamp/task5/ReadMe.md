@@ -1,7 +1,7 @@
 # Scala Bootcamp HW
 
 
-// Homework. Define all algebraic data types, which would be needed to implement “Hold’em Hand Strength”
+  // Homework. Define all algebraic data types, which would be needed to implement “Hold’em Hand Strength”
   // task you completed to join the bootcamp. Use your best judgement about particular data types to include
   // in the solution, you can model concepts like:
   //
